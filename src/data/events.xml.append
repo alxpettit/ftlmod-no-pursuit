@@ -1,0 +1,8 @@
+<event name="START_GAME">
+	<text id="event_START_GAME_text"/>
+	<modifyPursuit amount="-999999"/> 
+</event>
+	<event name="START_BEACON">
+	<text id="event_START_BEACON_text"/>
+        <modifyPursuit amount="-999999"/> 
+</event>
