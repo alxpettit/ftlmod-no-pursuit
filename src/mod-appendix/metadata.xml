@@ -15,11 +15,11 @@
 		If there's no thread yet, create one to announce your upcoming mod in the
 		forum. Then paste the url here.
 	-->
-	<threadUrl><![CDATA[  ]]></threadUrl>
+	<threadUrl><![CDATA[ ??? ]]></threadUrl>
 
 
 	<!-- Your forum user name. -->
-	<author><![CDATA[ Alexandria P. ]]></author>
+	<author><![CDATA[ alexandriaptt ]]></author>
 
 
 	<!--
@@ -35,7 +35,15 @@
 
 	<description>
 <![CDATA[
-The rebels do not persue you. You can visit every star system that you like.
+Simple mod that delays the rebel fleet by 999999 jumps, allowing you to explore at your leisure!
+
+License: GNU GPLv3
+			
+Source code link: https://github.com/alxpettit/ftlmod-no-pursuit
+	
+Note: it's best to use Github's issue tracker to alert me to problems. I don't pay attention to Subset forums. 
+
+Pull requests welcome!
 ]]>
 	</description>
 
